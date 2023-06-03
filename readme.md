@@ -12,7 +12,7 @@ This repository is organized as follows:
 
 - `Task_2SNB.ipynb`: The Jupyter Notebook file containing the code and instructions for Task 2.
 - `data/`: This directory contains the dataset used in the notebook.
-- `ppt/`: This directory contains presentation of this project.
+- `template.pptx`: This file contains presentation of this project.
 
 ## Getting Started
 
